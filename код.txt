@@ -1,3 +1,10 @@
 git checkout -- filenam # возвращает фал в состояние последнего коммита
 git reset --hard origin/master #игнор последнего коммита и вернуться к статусу remote
 чека
+
+плюс
+
+
+минус
+
+minus
