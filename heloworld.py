@@ -1,2 +1,2 @@
 #!/usr/bin/env python
-print('Privet Mir')
+print('Privet Mir') # коментарий
