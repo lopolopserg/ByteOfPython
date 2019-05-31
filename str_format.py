@@ -2,4 +2,5 @@
 
 name = input('пиши имя: ', )
 vozrast = int(input('пиши свой возраст: ', ))
-print('{} тебе {} лет.'.format(name, vozrast))
+text = '{} тебе {} лет'.format(name, vozrast)
+print(text, end='!!!!')
